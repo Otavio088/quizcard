@@ -22,12 +22,3 @@ O projeto está estruturado da seguinte forma:
 
 - Java 8 ou superior
 - IDE de sua escolha (por exemplo, Eclipse)
-
-## Instruções de Uso
-
-1. **Clonar o Repositório**
-
-   Clone este repositório para o seu ambiente local usando o comando:
-
-   ```bash
-   git clone https://github.com/seu-usuario/QuizCard.git
