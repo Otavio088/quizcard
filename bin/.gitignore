@@ -1,5 +1,5 @@
-/card_img.png
 /com/
-/controller/
-/model/
-/view/
+/bin/
+.settings/
+*.log
+*.tmp
