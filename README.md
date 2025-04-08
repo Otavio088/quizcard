@@ -1,24 +1,46 @@
 # QuizCard
 
-## Descrição
+QuizCard is a 100% Java-based flashcard-style quiz game. The application follows the **MVC (Model-View-Controller)** design pattern and provides an interactive experience for creating and playing question-and-answer cards using `.txt` files.
 
-O **QuizCard** é um projeto de aplicação de quiz desenvolvido em Java. O projeto segue o padrão MVC (Model-View-Controller) e tem como objetivo fornecer uma experiência interativa de jogo de perguntas e respostas com manipulação de arquivos txt..
+## 🛠 Technologies Used
 
-## Estrutura do Projeto
+- **Java 8** or higher  
+- **Eclipse IDE** (or any Java-compatible IDE)
 
-O projeto está estruturado da seguinte forma:
+## 📌 Features
 
-- **`src/model/`**: Contém as classes de modelo que representam os dados do quiz.
-- **`src/view/`**: Contém as classes responsáveis pela interface do usuário e a apresentação dos dados.
-- **`src/controller/`**: Contém as classes que gerenciam a lógica de aplicação e a interação entre o modelo e a visão.
+✔️ Create and manage quiz questions and answers  
 
-## Funcionalidades
+✔️ Play quizzes with a Java Swing-based GUI  
 
-- **Cadastro de perguntas e respostas**: Permite ao usuário criar e gerenciar perguntas e respostas.
-- **Jogo de Quiz**: Oferece uma interface para jogar o quiz, onde o usuário pode responder às perguntas.
-- **Classificação**: Exibe o desempenho do usuário após o término do jogo.
+✔️ Score tracking and performance display
 
-## Requisitos
+✔️ Load and save quiz data using `.txt` files
 
-- Java 8 ou superior
-- IDE de sua escolha (por exemplo, Eclipse)
+## ⚙️ How to Run the Project Locally
+
+### 1. Clone this repository
+
+```sh
+# Clone this repository
+git clone https://github.com/your-username/quizcard.git
+```
+
+### 2. Import into your IDE
+
+- Open Eclipse
+
+- Go to File > Import > Existing Projects into Workspace
+
+- Select the folder you just cloned
+
+### 3. Compile and Run
+
+- Ensure that JDK 8 or above is installed and properly configured in your system.
+
+- Right-click on Menu.java or QuizCardPlayer.java inside src/view/
+
+- Choose Run As > Java Application
+
+## 
+🚀 Developed by **Otávio Augusto de Melo Ribeiro**.
